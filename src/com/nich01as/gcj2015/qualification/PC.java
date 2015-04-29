@@ -1,4 +1,4 @@
-package com.nich01as.gcj2015;
+package com.nich01as.gcj2015.qualification;
 
 import java.io.BufferedWriter;
 import java.io.File;
